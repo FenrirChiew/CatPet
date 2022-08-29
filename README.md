@@ -7,6 +7,12 @@ This is an Desktop Pet Python Application.
 A pretty kitty will appear on your screen!
 Have fun with the kitty!
 
+# Executable File
+CatPet\cat.exe
+
+# Source Code
+cat.py
+
 # REALEASED NOTES:
 CatPet 1.0v (22/12/2021):
 - Right click the kitty for more option! (but they are not available yet :P )
